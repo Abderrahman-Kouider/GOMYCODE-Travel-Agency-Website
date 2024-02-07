@@ -1,0 +1,23 @@
+.size-limit{
+    margin-bottom: 100px;
+}
+
+.card-image-top {
+    height: 300px;
+}
+
+body {
+    background-color: bisque;
+}
+
+.accordion-item{
+    margin-bottom: 15px;
+}
+
+form{
+    margin-top: 100px;
+}
+
+.ri-linkedin-box-fill{
+    font-size: 50px;
+}
